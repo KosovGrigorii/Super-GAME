@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a650c08a-67e0-4be3-b7a3-a79b5e65d74c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Essen jagen/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Essen jagen/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Essen jagen/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Essen jagen/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Essen jagen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Essen jagen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/level 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/level 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterA.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterA.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthBarB.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthBarB.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/EditModeTestListGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/SaveModiedSceneTask.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/IceMoving.cs" />
+        <option value="$PROJECT_DIR$/Assets/IceMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/IceMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/trying.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovingVertPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovingHorPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthBarA.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthBarB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Teleportation.cs" />
+        <option value="$PROJECT_DIR$/Assets/CharacterA.cs" />
+        <option value="$PROJECT_DIR$/Assets/CharacterB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Eating.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests — копия/New Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests — копия/NewTestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Intro.cs" />
+        <option value="$PROJECT_DIR$/Assets/IntroMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/TestSuite.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/BackMusic.cs" />
+        <option value="$PROJECT_DIR$/Assets/BackMusic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Music.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MenuBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterA.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r7mMHZ5CxxF4YZE6KzLgg3emJr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a650c08a-67e0-4be3-b7a3-a79b5e65d74c" name="Default Changelist" comment="" />
+      <created>1618335458878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618335458878</updated>
+      <workItem from="1618335470523" duration="23000" />
+      <workItem from="1618335507933" duration="2863000" />
+      <workItem from="1618375720631" duration="1866000" />
+      <workItem from="1618379286109" duration="1111000" />
+      <workItem from="1618924642562" duration="157000" />
+      <workItem from="1618924905232" duration="8000" />
+      <workItem from="1618924930202" duration="1489000" />
+      <workItem from="1618926737157" duration="276000" />
+      <workItem from="1618927023932" duration="838000" />
+      <workItem from="1618928120411" duration="1721000" />
+      <workItem from="1618930306662" duration="19000" />
+      <workItem from="1618931045497" duration="5000" />
+      <workItem from="1618931058303" duration="21000" />
+      <workItem from="1618931821265" duration="3375000" />
+      <workItem from="1618937954300" duration="6989000" />
+      <workItem from="1618978130479" duration="547000" />
+      <workItem from="1618980319020" duration="18000" />
+      <workItem from="1618980346405" duration="785000" />
+      <workItem from="1618983826919" duration="1232000" />
+      <workItem from="1619443917885" duration="1947000" />
+      <workItem from="1619508367854" duration="11000" />
+      <workItem from="1619508394616" duration="117000" />
+      <workItem from="1619588420945" duration="34000" />
+      <workItem from="1619588468119" duration="782000" />
+      <workItem from="1619589627108" duration="140000" />
+      <workItem from="1619589868908" duration="1126000" />
+      <workItem from="1619901856306" duration="34000" />
+      <workItem from="1620544692298" duration="1160000" />
+      <workItem from="1620579679773" duration="394000" />
+      <workItem from="1620794253872" duration="25000" />
+      <workItem from="1620794308065" duration="376000" />
+      <workItem from="1620795931213" duration="28000" />
+      <workItem from="1620797863919" duration="18000" />
+      <workItem from="1620797906770" duration="1774000" />
+      <workItem from="1621347467152" duration="856000" />
+      <workItem from="1621362838572" duration="23000" />
+      <workItem from="1621362870042" duration="2912000" />
+      <workItem from="1621395051439" duration="10000" />
+      <workItem from="1621395070218" duration="1452000" />
+      <workItem from="1621400625696" duration="18000" />
+      <workItem from="1621400650224" duration="561000" />
+      <workItem from="1621403088933" duration="1497000" />
+      <workItem from="1621417683284" duration="11000" />
+      <workItem from="1621417702201" duration="612000" />
+      <workItem from="1621439651431" duration="277000" />
+      <workItem from="1621580363532" duration="739000" />
+      <workItem from="1621590061206" duration="1953000" />
+      <workItem from="1621594841003" duration="61000" />
+      <workItem from="1621594910006" duration="1640000" />
+      <workItem from="1621606805280" duration="3719000" />
+      <workItem from="1621693601453" duration="18000" />
+      <workItem from="1621693627232" duration="4698000" />
+      <workItem from="1621702554369" duration="20000" />
+      <workItem from="1621702581780" duration="745000" />
+      <workItem from="1621750454490" duration="7000" />
+      <workItem from="1621750469193" duration="597000" />
+      <workItem from="1621753684013" duration="4663000" />
+      <workItem from="1621760220507" duration="2724000" />
+      <workItem from="1621764538543" duration="14000" />
+      <workItem from="1621764560589" duration="806000" />
+      <workItem from="1621863750744" duration="21000" />
+      <workItem from="1621863779937" duration="1894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="278" key="#Notifications" timestamp="1618931075448">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="278" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1618931075448" />
+    <state x="475" y="290" key="LayersDialog" timestamp="1618932512251">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="475" y="290" key="LayersDialog/0.25.1440.805@0.25.1440.805" timestamp="1618932512251" />
+    <state x="463" y="156" key="RiderGenerateDialog" timestamp="1618928173172">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="463" y="156" key="RiderGenerateDialog/0.25.1440.807@0.25.1440.807" timestamp="1618928173172" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1618932506519">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.25.1440.805@0.25.1440.805" timestamp="1618932506519" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1619446394078">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1619446394078" />
+  </component>
+</project>
